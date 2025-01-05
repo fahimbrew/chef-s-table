@@ -40,8 +40,8 @@ function App() {
   }
 
   const calculateTimeAndCalories = (time,calories)=>{
-    setTotalTime = (totalTime + time);
-    setTotalCalories = (totalCalories + calories);
+    setTotalTime(totalTime + time);
+    setTotalCalories(totalCalories + calories);
 
   }
  
