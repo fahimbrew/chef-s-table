@@ -1,0 +1,104 @@
+
+     [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Classic Spaghetti Carbonara",
+        "short_description": "A creamy and rich Italian pasta dish with pancetta and Parmesan.",
+        "recipe_img": "https://i.ibb.co.com/6yG94sJ/spagetti.jpg",
+        "ingredients": [
+          "Spaghetti",
+          "Egg yolks",
+          "Parmesan cheese",
+          "Pancetta",
+          "Garlic",
+          "Black pepper"
+        ],
+        "preparing_time": 30,
+        "calories": 400
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Grilled Lemon Herb Chicken",
+        "short_description": "Juicy chicken breasts marinated with lemon, garlic, and fresh herbs.",
+        "recipe_img": "https://i.ibb.co.com/YZCBdvT/chicken-herb.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Lemon juice",
+          "Garlic",
+          "Rosemary",
+          "Olive oil",
+          "Salt",
+          "Black pepper"
+        ],
+        "preparing_time": 45,
+        "calories": 350
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A quick and healthy stir fry with fresh veggies and soy sauce.",
+        "recipe_img": "https://i.ibb.co.com/y87kNgb/salted-veggies.jpg",
+        "ingredients": [
+          "Broccoli",
+          "Carrots",
+          "Bell peppers",
+          "Snow peas",
+          "Soy sauce",
+          "Ginger",
+          "Garlic"
+        ],
+        "preparing_time": 25,
+        "calories": 250
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Crispy tacos filled with seasoned beef and fresh toppings.",
+        "recipe_img": "https://i.ibb.co.com/frX7t7W/tacos.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Taco seasoning",
+          "Taco shells",
+          "Lettuce",
+          "Tomatoes",
+          "Cheddar cheese",
+          "Sour cream"
+        ],
+        "preparing_time": 35,
+        "calories": 450
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Avocado Toast",
+        "short_description": "A simple and delicious toast topped with mashed avocado and seasonings.",
+        "recipe_img": "https://i.ibb.co.com/W2vFXfF/avocado-toast.jpg",
+        "ingredients": [
+          "Bread",
+          "Avocado",
+          "Lemon juice",
+          "Salt",
+          "Red pepper flakes"
+        ],
+        "preparing_time": 10,
+        "calories": 200
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic homemade cookies with gooey chocolate chips.",
+        "recipe_img": "https://i.ibb.co.com/r5CBfHv/chocolate-cookies.jpg",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Brown sugar",
+          "Butter",
+          "Eggs",
+          "Vanilla extract",
+          "Chocolate chips"
+        ],
+        "preparing_time": 60,
+        "calories": 150
+      }
+    ]
+  
+  
